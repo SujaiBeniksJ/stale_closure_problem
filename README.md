@@ -16,6 +16,6 @@ Once the project is opened in the browser,
 
 # Actual Behaviour
 
-Browser console will be printing as ```undefined```
+Browser console will be printed as whatever value provided in the search bar
 
-![image](https://github.com/SujaiBeniksJ/stale_closure_problem/assets/55177523/2cc063e9-fe2a-4258-82c7-4b47d15c4177)
+![image](https://github.com/SujaiBeniksJ/stale_closure_solution/assets/55177523/272efd41-a67e-488a-866d-ed024442ed5d)

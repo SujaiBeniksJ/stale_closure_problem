@@ -3,13 +3,14 @@ import SearchBar from './SearchBar';
 
 const HeavyComponent = ({ onClick, title }) => {
   return (
-    <>
+    <div className="heavy">
       <h3>{title}</h3>
-      <p>Some stuff here</p>
+      <p>This is a heavy component</p>
+      <p>Click below button to log the input value.</p>
       <button className="button" onClick={onClick}>
         Done!
       </button>
-    </>
+    </div>
   );
 };
 

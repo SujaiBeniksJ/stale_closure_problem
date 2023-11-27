@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.heavy {
+  background-color: #e6e6e5;
+  max-width: 20rem;
+  margin-top: 3rem;
+  margin-inline: auto;
+  border-radius: 1rem;
+  padding: 2rem 1rem;
+}
+
+button {
+  background-color: #d12600;
+  color: #fff;
+  border: 2px solid #e6e6e5;
+  font-size: 16px;
+  font-weight: 800;
+  padding: .5rem 2rem;
+  border-radius: .5rem;
+  cursor: pointer;
+  transition: transform 300ms;
+}
+
+button:focus-visible {
+  outline: 2px solid #180202;
+}
+
+button:hover {
+  transform: translateY(-.125rem);
+}
+
+button:active {
+  transform: translateY(.125rem);
+  outline: none;
+}
