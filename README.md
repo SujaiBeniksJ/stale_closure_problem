@@ -18,4 +18,5 @@ Once the project is opened in the browser,
 
 Browser console will be printed as whatever value provided in the search bar
 
-![image](https://github.com/SujaiBeniksJ/stale_closure_solution/assets/55177523/272efd41-a67e-488a-866d-ed024442ed5d)
+![image](https://github.com/SujaiBeniksJ/stale_closure_problem/assets/55177523/cc1bd904-0c84-49ca-9fa2-303ac71e92c0)
+
