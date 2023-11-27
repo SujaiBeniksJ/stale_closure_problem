@@ -18,4 +18,5 @@ Once the project is opened in the browser,
 
 Browser console will be printing as ```undefined```
 
-![image](https://github.com/SujaiBeniksJ/stale_closure_problem/assets/55177523/2cc063e9-fe2a-4258-82c7-4b47d15c4177)
+![image](https://github.com/SujaiBeniksJ/stale_closure_problem/assets/55177523/cc1bd904-0c84-49ca-9fa2-303ac71e92c0)
+
