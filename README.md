@@ -16,7 +16,7 @@ Once the project is opened in the browser,
 
 # Actual Behaviour
 
-Browser console will be printed as whatever value provided in the search bar
+Browser console will be printed as ```undefined``` no matter what value is provided in the Search Bar.
 
 ![image](https://github.com/SujaiBeniksJ/stale_closure_problem/assets/55177523/cc1bd904-0c84-49ca-9fa2-303ac71e92c0)
 
